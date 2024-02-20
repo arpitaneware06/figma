@@ -1,0 +1,349 @@
+h2{
+    background-color:rgb(85, 22, 85);
+    text-align: center;
+    color:white;
+    padding: 0;
+    
+}
+.hre{
+    color: palevioletred;
+}
+   /* box-sizing: border-box;*/
+
+/*nav{
+    display:flex;
+    justify-content: center;
+    background-color:white;
+   padding-top: 1px;
+   margin-top:1px;
+    height: 10px;
+    padding:14px 16px;
+    text-align: center;
+    
+}*/
+
+ul:hover{
+    color: plum;
+    text-decoration: underline;
+}
+i{
+    padding:14px 16px;
+    margin-left: 20px;
+}
+.box{
+    
+    background-color:lightpink;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    
+}
+.box1{
+    display: flex;
+    align-items: center;
+}
+.hre{
+    color: rgb(232, 150, 162);
+    display: flex;
+}
+.da{
+    color: rgb(51, 51, 167);
+    display: flex;  
+}
+.EA{
+    color: rgb(67, 42, 67);
+    display: flex;
+}
+.logo{
+    font-size: 30px;
+    display: flex;
+    padding-left: 65px;
+    align-items: center;
+}
+
+nav{
+    height: 0px;
+ display: flex;
+ text-align: center;
+ padding: 14px 16px;
+ align-items: center;
+ padding-right: 20px;
+
+}
+nav i{
+    padding: 0;
+    padding-left:40px;
+    
+}
+nav ul{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.box2{
+    display: flex;
+    align-items: center;
+}
+
+
+.box-slider{
+    background-color: rgb(179, 139, 144);
+    
+}
+
+
+button{
+    color:white;
+    background-color:rgb(85, 22, 85);
+}
+h3{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    color:white;
+}
+
+.abt{
+    height:400px;
+    width:auto;
+   color:white;
+ /*   background-image: url("unpl.avif");
+    background-size:100%;  */
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+   margin-top: 30px;
+    text-align: center;
+    background-color:rgb(100, 67, 133);
+    opacity: 0.8;
+    height: 300px;
+    top: 300px;
+   /* padding-left: 10px;*/
+    margin-right:500px;
+   margin-left:500px;
+    
+}
+/*.boxes{
+    margin-top: 30px;
+text-align: center;
+background-color:rebeccapurple;
+height: 200px;
+padding-left: 10px;
+margin-right: 500px;
+margin-left:500px;
+
+}*/
+.boxes{
+    background-image: url("unpl.avif");
+        height:600px;
+        width:auto;
+        background-size:100%;  
+        align-items: center;
+        display: flex;
+        margin-top: 20px;
+}
+.bt{
+    color:white;
+    background-color: #D3B5E5;
+    border-radius: 5px;
+}
+
+
+
+.con{
+    display: flex;
+    justify-content: space-evenly;
+   padding-top: 40px;
+   text-align: center;
+
+   
+}
+.con i{
+    color: lightpink;
+    opacity:0.8;
+}
+.con span{
+    font-weight: 600;
+}
+.dv1 p{
+    margin-right: 10px;
+    margin-left: 87px;
+    margin-top: 10px;
+}
+.dv2 p{
+    margin-right: 10px;
+    margin-left: 87px;
+    margin-top: 10px;
+}
+.dv3 p{
+    margin-right: 10px;
+    margin-left: 87px;
+    margin-top: 10px;
+}
+.dv4 p{
+    margin-right: 10px;
+    margin-left: 87px;
+    margin-top: 10px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    border-bottom: 1px solid white;
+}
+
+
+.foot1 i{
+    color: rgb(95, 32, 32);
+}
+
+.foot2 h3{
+    font-weight: 200;
+    margin-top: 20px;
+padding-top: 40px;
+margin-left: 40px;
+opacity: 0.8;
+}
+
+
+.foot1 h1{
+    font-weight: 200;
+    margin-top: 20px;
+padding-top: 40px;
+margin-left: 40px;
+opacity: 0.8;
+}
+
+.foot2 h3{
+    font-weight: 200;
+    margin-top: 20px;
+padding-top: 40px;
+margin-left: 40px;
+opacity: 0.8;
+}
+.foot3 h3{
+    font-weight: 200;
+    margin-top: 20px;
+padding-top: 40px;
+margin-left: 40px;
+opacity: 0.8;
+}
+.foot4 h3{
+    font-weight: 200;
+    margin-top: 20px;
+padding-top: 40px;
+margin-left: 40px;
+opacity: 0.8;
+}
+.foot5 h3{
+    font-weight: 200;
+    margin-top: 20px;
+  padding-top: 40px;
+    margin-left: 40px;
+    opacity: 0.8;
+}
+.foot5 i{
+    color:rgb(95, 32, 32);
+}
+.foot5 button{
+    border-radius: 5px;
+    height: 130;
+    width: 100px;
+}
+footer span{
+    opacity: 0.9;
+    align-items: center;
+}
+.foot5 i{
+    padding: 2px;
+    margin-top: 14px;
+    
+}
+footer h3{
+    padding-left: 5px;
+}
+
+input{
+    margin-top: 15px;
+    font-size:15px;
+    border-radius: 3px;
+  
+}
+.btn{
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+
+.foot5 a{
+    background-color:rgb(81, 44, 116);
+}
+/*.main-div{
+    display: flex;
+    position: absolute;
+
+
+}
+.div1 button{
+    top:56px;
+    transform: translate(-10%,-10%);
+    align-items: center;
+    margin: auto;
+}
+.div img{
+    height: 300px;
+    width: 300px;
+}*/
+img{
+    height: 400px;
+    width: 450px;
+ /* padding-left: 30px;*/
+    padding-right: 40px;
+    right: 20px;
+    margin: 15px;
+    justify-content: space-between;
+    
+}
+.bottom{
+    background-color: black;
+}
+@media(max-width:500px){
+    body{
+background-color: turquoise;
+    }
+}
+
+.div5 {
+    position: relative;
+    width: 50%;
+  }
+  
+  /* Make the image responsive */
+  .div5 img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Style the button and place it in the middle of the container/image */
+  .div5 .b {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.div5 .b:hover {
+  background-color: black;
+}
